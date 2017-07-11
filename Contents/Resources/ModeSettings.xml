@@ -3,5 +3,6 @@
   <template>mytemplate.txt</template>   <!-- Provide a template for File->new -->
   <recognition>
     <extension casesensitive="yes">jade</extension> <!-- Add case sensitive file extensions -->
+    <extension casesensitive="yes">pug</extension>
   </recognition>
 </settings>
